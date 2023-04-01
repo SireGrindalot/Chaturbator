@@ -1,1 +1,1 @@
-# test je samo preizkusni projekt.
+# Test je preizkusni projekt.
